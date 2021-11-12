@@ -26,7 +26,7 @@ Races:
 - [ ] Tiefling
 
 Melee Weapons:
-- [ ] Whip (Leather)
+- [ ] Whip (Leather + All)
 - [ ] Club (Wood)
 - [ ] Great Club (Wood)
 - [ ] Quarterstaff (Wood)
