@@ -24,6 +24,7 @@ Races:
 - [ ] Half-Elf (?)
 - [ ] Half-Orc
 - [ ] Tiefling
+<br>
 Melee Weapons:
 - [ ] Whip (Leather)
 - [ ] Club (Wood)
@@ -51,6 +52,7 @@ Melee Weapons:
 - [ ] Trident (Copper, Iron, Diamond, Netherite)
 - [ ] Warpick (Copper, Iron, Diamond, Netherite)
 - [ ] Warhammer (Copper, Iron, Diamond, Netherite)
+<br>
 Ranged Weapons
 - [ ] Dart (All)
 - [ ] Sling (Leather, Fires Stone)
