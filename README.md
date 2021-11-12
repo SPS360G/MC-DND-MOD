@@ -85,7 +85,7 @@ Other:
 - [ ] Magic
 - [ ] Stats
 - [ ] Skills
-- [ ] Strutures
+- [ ] Strippers
 - [ ] More
 - [X] CUM
 
