@@ -13,7 +13,7 @@ Classes:
 - [ ] Sorcerer
 - [ ] Warlock
 - [ ] Wizard
-<br>
+
 Races:
 - [ ] Dwarf (Hill And Mountain subrace)
 - [ ] Elf (High, Wood, and Dark(Drow) subrace)
@@ -24,7 +24,7 @@ Races:
 - [ ] Half-Elf (?)
 - [ ] Half-Orc
 - [ ] Tiefling
-<br>
+
 Melee Weapons:
 - [ ] Whip (Leather)
 - [ ] Club (Wood)
@@ -52,7 +52,7 @@ Melee Weapons:
 - [ ] Trident (Copper, Iron, Diamond, Netherite)
 - [ ] Warpick (Copper, Iron, Diamond, Netherite)
 - [ ] Warhammer (Copper, Iron, Diamond, Netherite)
-<br>
+
 Ranged Weapons
 - [ ] Dart (All)
 - [ ] Sling (Leather, Fires Stone)
@@ -63,6 +63,7 @@ Ranged Weapons
 - [ ] Heavy Crossbow (All, Fires Bolts, All)
 - [ ] Shortbow (All, Fires Arrow, All)
 - [ ] Longbow (All, Fires Arrow, All)
+
 Armour:
 - [ ] Padded (Leather + Wool)
 - [ ] Leather (Leather
@@ -76,8 +77,10 @@ Armour:
 - [ ] Splint (Copper, Iron, Diamond, Netherite)
 - [ ] Full Plate (Copper, Iron, Diamond, Netherite) 
 - [ ] Sheild (All)
+
 Mobs:  
 - [ ] WIP  
+
 Other:
 - [ ] Magic
 - [ ] Stats
