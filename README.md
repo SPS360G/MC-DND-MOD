@@ -86,6 +86,7 @@ Other:
 - [ ] Stats
 - [ ] Skills
 - [ ] Structures
+- [ ] Magic Items (lots)
 - [ ] More
 - [X] CUM
 
