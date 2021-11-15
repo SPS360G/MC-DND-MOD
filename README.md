@@ -35,23 +35,23 @@ Melee Weapons:
 - [ ] Maul (All)
 - [ ] Javelin (All)
 - [ ] Spear (All)
-- [ ] Dagger (Copper, Iron, Diamond, Netherite)
-- [ ] Handaxe (Copper, Iron, Diamond, Netherite)
-- [ ] Sickle (Copper, Iron, Diamond, Netherite)
-- [ ] Battleaxe (Copper, Iron, Diamond, Netherite)
-- [ ] Glaive (Copper, Iron, Diamond, Netherite)
-- [ ] Greataxe (Copper, Iron, Diamond, Netherite)
-- [ ] Greatsword (Copper, Iron, Diamond, Netherite)
-- [ ] Halbered (Copper, Iron, Diamond, Netherite)
-- [ ] Longsword (Copper, Iron, Diamond, Netherite)
-- [ ] Morningstar (Copper, Iron, Diamond, Netherite)
-- [ ] Pike (Copper, Iron, Diamond, Netherite)
-- [ ] Rapier (Copper, Iron, Diamond, Netherite)
-- [ ] Scimitar (Copper, Iron, Diamond, Netherite)
-- [ ] Shortsword (Copper, Iron, Diamond, Netherite)
-- [ ] Trident (Copper, Iron, Diamond, Netherite)
-- [ ] Warpick (Copper, Iron, Diamond, Netherite)
-- [ ] Warhammer (Copper, Iron, Diamond, Netherite)
+- [ ] Dagger (Gold, Iron, Diamond, Netherite)
+- [ ] Handaxe (Gold, Iron, Diamond, Netherite)
+- [ ] Sickle (Gold, Iron, Diamond, Netherite)
+- [ ] Battleaxe (Gold, Iron, Diamond, Netherite)
+- [ ] Glaive (Gold, Iron, Diamond, Netherite)
+- [ ] Greataxe (Gold, Iron, Diamond, Netherite)
+- [ ] Greatsword (Gold, Iron, Diamond, Netherite)
+- [ ] Halbered (Gold, Iron, Diamond, Netherite)
+- [ ] Longsword (Gold, Iron, Diamond, Netherite)
+- [ ] Morningstar (Gold, Iron, Diamond, Netherite)
+- [ ] Pike (Gold, Iron, Diamond, Netherite)
+- [ ] Rapier (Gold, Iron, Diamond, Netherite)
+- [ ] Scimitar (Gold, Iron, Diamond, Netherite)
+- [ ] Shortsword (Gold, Iron, Diamond, Netherite)
+- [ ] Trident (Gold, Iron, Diamond, Netherite)
+- [ ] Warpick (Gold, Iron, Diamond, Netherite)
+- [ ] Warhammer (Gold, Iron, Diamond, Netherite)
 
 Ranged Weapons
 - [ ] Dart (All)
@@ -67,15 +67,15 @@ Ranged Weapons
 Armour:
 - [ ] Padded (Leather + Wool)
 - [ ] Leather (Leather
-- [ ] Studded Leather (Leather + Iron/Copper)
+- [ ] Studded Leather (Leather + Iron/Gold)
 - [ ] Hide (Leather)
 - [ ] Chain (Copper, Iron)
-- [ ] Scale Mail (Copper, Iron, Diamond, Netherite)
-- [ ] Half Plate (Copper, Iron, Diamond, Netherite)
-- [ ] Ring Mail (Copper, Iron, Diamond, Netherite)
-- [ ] Chain Mail (Copper, Iron, Diamond, Netherite)
-- [ ] Splint (Copper, Iron, Diamond, Netherite)
-- [ ] Full Plate (Copper, Iron, Diamond, Netherite) 
+- [ ] Scale Mail (Gold, Iron, Diamond, Netherite)
+- [ ] Half Plate (Gold, Iron, Diamond, Netherite)
+- [ ] Ring Mail (Gold, Iron, Diamond, Netherite)
+- [ ] Chain Mail (Gold, Iron, Diamond, Netherite)
+- [ ] Splint (Gold, Iron, Diamond, Netherite)
+- [ ] Full Plate (Gold, Iron, Diamond, Netherite) 
 - [ ] Sheild (All)
 
 Mobs:  
@@ -87,6 +87,7 @@ Other:
 - [ ] Skills
 - [ ] Structures
 - [ ] Magic Items (lots)
+- [ ] If we update to 1.17 or beyond we will add copper varients
 - [ ] More
 - [X] CUM
 
